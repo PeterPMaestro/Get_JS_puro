@@ -1,0 +1,9 @@
+ #cajaTitulo, #cajaDescripcion {
+    width: 99%;
+    display: none;
+    text-align: center;
+}
+
+p {
+    text-align: center;
+}
